@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Knoxberg
-- 👀 I’m interested in software development and networking.
-- 🌱 I’m currently learning how to code in general, and grow.
-- 💞️ I’m looking to collaborate on engaging and open learning course.
+- Hi, I’m @Knoxberg
+- I’m interested in software development and networking.
+- I’m currently learning how to code in general, and grow.
+- I’m looking to collaborate on engaging and open learning course.
 <!---
 - 📫 How to reach me ...
 --->
